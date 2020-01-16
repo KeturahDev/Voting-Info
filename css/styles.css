@@ -1,3 +1,11 @@
-#old-enough #youngin{
+/* #old-enough #youngin{
+    display: none;
+} */
+
+#old-enough{
+    display: none;
+}
+
+#youngin{
     display: none;
 }
